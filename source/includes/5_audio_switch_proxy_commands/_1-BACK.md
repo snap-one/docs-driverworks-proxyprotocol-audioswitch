@@ -1,6 +1,6 @@
 ## BACK
 
-Pulse Back button
+Pulses the back button
 
 
 ### Name
